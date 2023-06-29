@@ -1,0 +1,7 @@
+pwn
+reversing
+web
+crypto
+forensics
+scripting
+osint
