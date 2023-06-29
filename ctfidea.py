@@ -13,7 +13,7 @@ words.remove('')
 while True:
 	input('next? ')
 	# choose 1 category and 2 words
-	# cat = random.choice(categories)
+	#cat = random.choice(categories)
 	word1 = random.choice(words)
 	word2 = random.choice(words)
 	word3 = random.choice(words)
